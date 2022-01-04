@@ -1,0 +1,35 @@
+
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+h3{
+    font-size: 20px;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+.half-width{
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 50%;
+}
+.orng{
+    color: orange;
+}
+.linkBtn{
+    padding: 10px 30px;
+    text-decoration: none;
+    background-image: linear-gradient(orange , tomato);
+    font-weight: 500;
+    color: white;
+    margin-top: 0px;
+    border-radius: 5px;
+}
